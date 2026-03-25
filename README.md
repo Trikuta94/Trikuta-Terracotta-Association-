@@ -4,4 +4,4 @@ farmer-support
 website
 html-css
 india
-[Project name] + [purpose] + [location/field]
+[TRIKUTATERRACOTTAASSOCIATION] + [Farmer Empowerment] + [Warehouse and Flour Mill]
